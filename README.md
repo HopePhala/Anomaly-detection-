@@ -80,7 +80,7 @@ The supervised learning models outperformed the unsupervised models.
 
 ## ▶️ How to Run the Project
 1. Open the Google Colab notebook:
-   [Paste your Colab link here]
+   https://colab.research.google.com/drive/1aW_KpLxeuH3O1HklSj5cvULMV7_PYC88?usp=sharing
 
 2. Run the notebook step by step
 
@@ -94,3 +94,28 @@ The supervised learning models outperformed the unsupervised models.
    - matplotlib
 
 ## 📁 Project Structure
+fraud-detection-project/
+│
+├── fraud_detection_notebook.ipynb
+├── README.md
+└── dataset/ (optional if included)
+
+## 📚 Dataset
+This project uses the **Kaggle Credit Card Fraud Detection Dataset**, which contains anonymized transaction features and fraud labels.
+
+## 👤 Author
+**Mmamoloko Hope Phala**
+
+## 🎓 Academic Context
+This project forms part of an Honours research study in Computer Science and focuses on improving fraud detection in digital financial transactions using Machine Learning.
+
+## 📎 Colab Notebook
+https://colab.research.google.com/drive/1aW_KpLxeuH3O1HklSj5cvULMV7_PYC88?usp=sharing
+
+## 📌 Future Improvements
+Possible future enhancements include:
+
+- Hybrid fraud detection models
+- Real-time fraud detection systems
+- Explainable AI for fraud prediction
+- Deployment as a web-based fraud detection tool
